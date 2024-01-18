@@ -1,1 +1,3 @@
-# simple CRUD application on express
+# NodeJs | express | MongoDB
+## RESTfull | CRUD | HTTP
+### Simple application
